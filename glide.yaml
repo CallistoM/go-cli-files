@@ -1,0 +1,4 @@
+package: .
+import:
+- package: github.com/gizak/termui
+  version: v2.2.0
